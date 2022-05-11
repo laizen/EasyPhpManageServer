@@ -1,7 +1,7 @@
 <?
 $user     = $ftp_user_name = "george";
-$password = $ftp_user_pass = "[S]-creaRO";
-$IP       = $ftp_server    = "192.168.0.65";
+$password = $ftp_user_pass = "password";
+$IP       = $ftp_server    = "localhost";
 $FTP      = $ftp_server_port = "21";
 $user_db  = "root";
 $database = "mysql";
