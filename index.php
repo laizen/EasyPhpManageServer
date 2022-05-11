@@ -35,11 +35,11 @@
                         <div class="modal-body">
                             <h4><dl>Conta FTP</dl></h4>
                             <blockquote class="blockquote">
-	                            Usuário: george<br>Senha: [S]-creaRO<br>IP: 192.168.0.65
+	                            Usuário: username<br>Senha: password<br>IP: localhost
                             </blockquote>
                             <h4><dl>Conta MySQL</dl></h4>
                             <blockquote class="blockquote">
-								Usuário: root<br>Senha: [S]-creaRO
+								Usuário: root<br>Senha: password
                             </blockquote>
                         </div>
                         <div class="modal-footer">
