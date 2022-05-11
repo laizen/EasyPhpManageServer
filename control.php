@@ -1,5 +1,5 @@
 <?
-$user     = $ftp_user_name = "george";
+$user     = $ftp_user_name = "username";
 $password = $ftp_user_pass = "password";
 $IP       = $ftp_server    = "localhost";
 $FTP      = $ftp_server_port = "21";
