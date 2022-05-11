@@ -36,7 +36,7 @@ function FtpTest(){
 	ftp_close($conn_id);
 }
 function MySQLTest(){
-	$mysqli = new mysqli("localhost", "root", "[S]-creaRO");
+	$mysqli = new mysqli("localhost", "root", "password");
 	/* check connection */
 	if (mysqli_connect_errno()) {
 		printf("Connect failed: %s\n", mysqli_connect_error());
